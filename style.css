@@ -15,9 +15,9 @@
   
   .calculator {
     width: 300px;
-    background-color: #5f0cf8;
+    background-color: #644e8f;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 15px rgb(243, 240, 240);
     padding: 20px;
   }
   
@@ -45,11 +45,11 @@
     background-color: #d40395;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.2s ease;
+    transition: background-color 0.2s ;
   }
   
   button:hover {
-    background-color: #ddd;
+    background-color: #fff;
   }
   
   button.operator {
